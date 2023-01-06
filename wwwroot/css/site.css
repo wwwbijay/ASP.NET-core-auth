@@ -1,0 +1,21 @@
+﻿
+body {
+    font-family: 'Manrope', sans-serif;
+    
+}
+h1, h2, h3, h4, h5 {
+    font-family: 'Oswald', sans-serif;
+}
+h4, h5{
+    font-weight: 300;
+}
+.form-signin {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    width: 600px;
+    margin: 40px auto;
+    padding: 40px;
+    border: none;
+}
+.form-signin-header img{
+    width: 200px;
+}
